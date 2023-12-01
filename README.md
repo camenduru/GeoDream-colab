@@ -11,6 +11,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/GeoDream-colab/blob/main/GeoDream_colab.ipynb) | GeoDream_colab
 
 ## Tutorial
+```
+500 [12:08<00:00,  0.69it/s]
+```
 
 ## Main Repo
 https://github.com/baaivision/GeoDream
