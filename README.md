@@ -12,6 +12,10 @@
 
 ## Tutorial
 
+In Stage 1, for some reason, ModelCheckpoint (lightning==2.0.0) does not trigger self.trainer.save_checkpoint(ckpt_path) all the time. 😐 Because of that, we can't use Stage 2 and 3. 😭
+
+![Screenshot 2023-12-02 074717](https://github.com/camenduru/GeoDream-colab/assets/54370274/80393d21-ebbf-4d24-8516-8ffcf13f712d)
+
 ## Main Repo
 https://github.com/baaivision/GeoDream
 
