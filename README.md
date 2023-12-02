@@ -18,7 +18,7 @@
 4600 [1:52:19<00:00,  0.68it/s] [128, 256]
 ```
 
-### 4500 [1:49:51<00:00,  0.68it/s] [128, 256]
+### Stage 1 (NeuS) 4500 Steps [1:49:51<00:00,  0.68it/s] [128, 256]
 
 https://github.com/camenduru/GeoDream-colab/assets/54370274/ddd702d9-c57a-43d1-84cc-ee0d8a68b792
 
